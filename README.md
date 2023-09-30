@@ -1,6 +1,6 @@
 # Real-time facial expressions of Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise 
 
-This reactions were captured from the project 
+This reactions were captured from the project overview
 
 ![Angry](https://github.com/pritidas05/reall/assets/98904766/05b256d6-293a-4307-a8a8-6d255fbbca19)
 ![disguist](https://github.com/pritidas05/reall/assets/98904766/ddbc9b37-c802-4a04-a008-ce9736c3ce22)
